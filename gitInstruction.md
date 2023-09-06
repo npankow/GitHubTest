@@ -6,3 +6,5 @@
 * git init
 * git commit
 * git status
+
+  # ЭТА ИНФОРМАЦИЯ ДОБАВЛЕНА ИЗ GitHub
